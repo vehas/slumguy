@@ -1,5 +1,6 @@
 # slumguy
-slum club member fair distrubuted job management
+
+slum club member fair distributed job management
 start form
 [react-webpack-babel](https://github.com/alicoding/react-webpack-babel.git)
 
@@ -24,13 +25,13 @@ Install webpack and the development server:
 > $ npm i webpack-dev-server webpack -g
 ```
 
-You can simply run webpack build using this command: 
+You can simply run webpack build using this command:
 
 ```
 > $ npm run build
 ```
 
-If you want to run with webpack-dev-server simply run this command: 
+If you want to run with webpack-dev-server simply run this command:
 
 ```
 > $ npm run dev
